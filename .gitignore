@@ -1,0 +1,19 @@
+# ONNX model files
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store 
